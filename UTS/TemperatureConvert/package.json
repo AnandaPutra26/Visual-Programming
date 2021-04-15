@@ -1,0 +1,14 @@
+{
+    "name": "temperature-converter",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {
+        "electron": "^12.0.2"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "electron-reload": "^1.5.0"
+    }
+}

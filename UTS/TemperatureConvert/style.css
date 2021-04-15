@@ -1,0 +1,16 @@
+#Temperature {
+    background-color: rgb(237, 245, 127);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+
+     height: 250px;
+     width: 180px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    background-color: rgb(237, 245, 127);
+    
+    width: 180px;
+}
